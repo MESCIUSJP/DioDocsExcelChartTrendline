@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using GrapeCity.Documents.Excel.Drawing;
 using GrapeCity.Documents.Excel;
+using GrapeCity.Documents.Excel.Drawing;
 using System.Drawing;
 
 Console.WriteLine("ワークシートにチャートを追加して近似曲線を設定する");
